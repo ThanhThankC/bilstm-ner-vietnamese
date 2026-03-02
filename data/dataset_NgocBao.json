@@ -1,0 +1,10 @@
+[
+  {
+    "tokens": ["tập", "đoàn", "vingroup", "xây", "tòa", "nhà", "landmark", "tại", "hồ", "chí", "minh"],
+    "labels": ["B-ORG", "I-ORG", "I-ORG", "O", "O", "O", "B-LOC", "O", "B-LOC", "I-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["giám", "đốc", "nguyễn", "văn", "an", "làm", "việc", "ở", "ngân", "hàng", "vietcombank"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG"]
+  }
+]

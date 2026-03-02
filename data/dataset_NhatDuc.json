@@ -1,0 +1,10 @@
+[
+  {
+    "tokens": ["chủ", "tịch", "hồ", "chí", "minh", "đọc", "tuyên", "ngôn", "tại", "ba", "đình"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["trần", "hưng", "đạo", "chỉ", "huy", "quân", "đội", "nhà", "trần"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG"]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "tokens": ["huấn", "luyện", "viên", "park", "hang", "seo", "trở", "lại", "việt", "nam"],
+    "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "sơn", "tùng", "biểu", "diễn", "ở", "sân", "khấu", "lan", "anh"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
+  }
+]
