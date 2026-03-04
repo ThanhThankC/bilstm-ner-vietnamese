@@ -1,5 +1,5 @@
 venv/
 models/
-format/dataset.json
+format/*.json
 .gradio/
 __pycache__/
