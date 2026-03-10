@@ -1,5 +1,4 @@
 venv/
-models/
 format/*.json
 .gradio/
 __pycache__/
