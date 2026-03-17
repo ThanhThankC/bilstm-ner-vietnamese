@@ -50,8 +50,8 @@ giao_dien = gr.Interface(
     fn=nhan_dien_thuc_the, 
     inputs=gr.Textbox(lines=4, placeholder="Nhập câu vào đây..."),
     outputs=gr.HighlightedText(label="Kết quả nhận diện"),
-    title="Hệ thống Nhận diện Thực thể - Nhóm của tôi",
-    examples=[["hôm nay ông vượng đi hà nội"]] 
+    title="Hệ thống Nhận diện Thực thể - Nhóm 5 - 69IT5",
+    examples=[["hôm nay ông vượng đi hà nội"], ["trần hưng đạo chỉ huy quân đội nhà trần"]]
 )
 
 if __name__ == "__main__":
