@@ -1,4 +1,5 @@
 venv/
 format/*.json
+format/testdata.py
 .gradio/
 __pycache__/
