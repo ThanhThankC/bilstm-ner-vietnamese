@@ -3998,5 +3998,805 @@
   {
     "tokens": ["cristiano", "ronaldo", "ghi", "bàn", "trong", "trận", "đấu", "tại", "đà", "nẵng"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["fpt", "mở", "rộng", "hoạt", "động", "tại", "nghệ", "an"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "hải", "phòng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bidv", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vnpt", "mở", "rộng", "hoạt", "động", "tại", "tp", "hồ", "chí", "minh"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["trương", "thị", "mai", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["ông", "lê", "minh", "tuấn", "đến", "thăm", "hải", "phòng"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vinfast", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["nguyễn", "văn", "an", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "lionel", "messi", "thăm", "chính", "thức", "thanh", "hóa"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "narendra", "modi", "thăm", "chính", "thức", "bình", "dương"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ngô", "văn", "đức", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["giáo", "sư", "trương", "thị", "mai", "đến", "thăm", "nha", "trang"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "đà", "nẵng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["amazon", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["viettel", "mở", "rộng", "hoạt", "động", "tại", "quảng", "ninh"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tesla", "mở", "rộng", "hoạt", "động", "tại", "thái", "nguyên"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "trần", "thị", "bình", "làm", "việc", "tại", "seoul"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["vnpt", "đầu", "tư", "vào", "tp", "hồ", "chí", "minh"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["lê", "minh", "tuấn", "và", "phạm", "minh", "chính", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tại", "thái", "nguyên", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["lương", "cường", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["đỗ", "quang", "huy", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vingroup", "mở", "rộng", "hoạt", "động", "tại", "thanh", "hóa"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["microsoft", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["apple", "mở", "rộng", "hoạt", "động", "tại", "thái", "nguyên"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["meta", "mở", "rộng", "hoạt", "động", "tại", "cần", "thơ"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tesla", "đầu", "tư", "vào", "đà", "nẵng"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["cầu", "thủ", "đỗ", "quang", "huy", "làm", "việc", "tại", "tokyo"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["tại", "nghệ", "an", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vietcombank", "mở", "rộng", "hoạt", "động", "tại", "đồng", "nai"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vietcombank", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["meta", "đầu", "tư", "vào", "cần", "thơ"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "cristiano", "ronaldo", "thăm", "chính", "thức", "nha", "trang"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "trần", "thị", "bình", "đến", "thăm", "bắc", "ninh"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "ngô", "văn", "đức", "làm", "việc", "tại", "hàn", "quốc"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["mobifone", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "nguyễn", "xuân", "phúc", "làm", "việc", "tại", "đức"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["bidv", "đầu", "tư", "vào", "cần", "thơ"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "phạm", "minh", "chính", "ký", "hợp", "đồng", "với", "vnpt"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["tại", "nghệ", "an", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["trương", "thị", "mai", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["nguyễn", "phú", "trọng", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "hoàng", "văn", "nam", "làm", "việc", "tại", "trung", "quốc"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["viettel", "đầu", "tư", "vào", "bắc", "ninh"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["bà", "hoàng", "văn", "nam", "đến", "thăm", "thanh", "hóa"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "lê", "minh", "tuấn", "ký", "hợp", "đồng", "với", "meta"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["phan", "văn", "giang", "và", "võ", "văn", "thưởng", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tại", "đồng", "nai", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bà", "phạm", "minh", "chính", "đến", "thăm", "bắc", "ninh"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "bắc", "ninh", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bà", "đinh", "thị", "thu", "làm", "việc", "tại", "đức"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["giám", "đốc", "nguyễn", "văn", "an", "ký", "hợp", "đồng", "với", "google"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["giáo", "sư", "bill", "gates", "thăm", "chính", "thức", "tp", "hồ", "chí", "minh"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "thái", "nguyên", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "angela", "merkel", "thăm", "chính", "thức", "nha", "trang"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ông", "tô", "lâm", "ký", "hợp", "đồng", "với", "toyota"],
+    "labels": ["O", "B-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["bà", "lương", "cường", "đến", "thăm", "thái", "nguyên"],
+    "labels": ["O", "B-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "hải", "phòng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "lê", "minh", "tuấn", "đến", "thăm", "tp", "hồ", "chí", "minh"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["viettel", "đầu", "tư", "vào", "bắc", "ninh"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["giáo", "sư", "angela", "merkel", "thăm", "chính", "thức", "thanh", "hóa"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vnpt", "đầu", "tư", "vào", "đà", "nẵng"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "đồng", "nai", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["trương", "thị", "mai", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vnpt", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["microsoft", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["lương", "cường", "và", "phan", "văn", "giang", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["giám", "đốc", "tim", "cook", "thăm", "chính", "thức", "hải", "phòng"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["viettel", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["ông", "phạm", "minh", "chính", "làm", "việc", "tại", "malaysia"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["bùi", "thị", "mai", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bà", "trần", "thị", "bình", "đến", "thăm", "hải", "phòng"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vingroup", "mở", "rộng", "hoạt", "động", "tại", "thái", "nguyên"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["bà", "võ", "văn", "thưởng", "làm", "việc", "tại", "malaysia"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["tại", "thanh", "hóa", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["samsung", "đầu", "tư", "vào", "đồng", "nai"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["giám", "đốc", "bùi", "thị", "mai", "ký", "hợp", "đồng", "với", "toyota"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["đỗ", "quang", "huy", "và", "phạm", "thanh", "hà", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["grab", "mở", "rộng", "hoạt", "động", "tại", "nha", "trang"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["trương", "thị", "mai", "và", "phan", "văn", "giang", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bà", "trần", "thị", "bình", "đến", "thăm", "quảng", "ninh"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["bà", "bùi", "thị", "mai", "làm", "việc", "tại", "malaysia"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["vnpt", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bidv", "đầu", "tư", "vào", "quảng", "ninh"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "phan", "văn", "giang", "ký", "hợp", "đồng", "với", "apple"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["alibaba", "mở", "rộng", "hoạt", "động", "tại", "bắc", "ninh"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["bà", "elon", "musk", "thăm", "chính", "thức", "thanh", "hóa"],
+    "labels": ["O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ông", "tim", "cook", "thăm", "chính", "thức", "bắc", "ninh"],
+    "labels": ["O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vietcombank", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["nguyễn", "xuân", "phúc", "và", "nguyễn", "xuân", "phúc", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["meta", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["giáo", "sư", "nguyễn", "phú", "trọng", "đến", "thăm", "hà", "nội"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ngô", "văn", "đức", "và", "phan", "văn", "giang", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tại", "quảng", "ninh", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["giám", "đốc", "angela", "merkel", "thăm", "chính", "thức", "hải", "phòng"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "hải", "phòng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["ông", "tô", "lâm", "đến", "thăm", "hà", "nội"],
+    "labels": ["O", "B-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["giám", "đốc", "võ", "văn", "thưởng", "đến", "thăm", "thái", "nguyên"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["giáo", "sư", "elon", "musk", "thăm", "chính", "thức", "đồng", "nai"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vietcombank", "mở", "rộng", "hoạt", "động", "tại", "tp", "hồ", "chí", "minh"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["lê", "minh", "tuấn", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["meta", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["mobifone", "mở", "rộng", "hoạt", "động", "tại", "hải", "phòng"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["trần", "thị", "bình", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["lê", "minh", "tuấn", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["võ", "văn", "thưởng", "và", "tô", "lâm", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tại", "hải", "phòng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "ngô", "văn", "đức", "làm", "việc", "tại", "đức"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "phan", "văn", "giang", "ký", "hợp", "đồng", "với", "amazon"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["fpt", "mở", "rộng", "hoạt", "động", "tại", "bình", "dương"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["phạm", "thanh", "hà", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vnpt", "mở", "rộng", "hoạt", "động", "tại", "hải", "phòng"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "angela", "merkel", "thăm", "chính", "thức", "nha", "trang"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["apple", "mở", "rộng", "hoạt", "động", "tại", "nha", "trang"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "đà", "nẵng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vnpt", "đầu", "tư", "vào", "nghệ", "an"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "vĩnh", "phúc", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["ông", "cristiano", "ronaldo", "thăm", "chính", "thức", "thái", "nguyên"],
+    "labels": ["O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "cristiano", "ronaldo", "thăm", "chính", "thức", "tp", "hồ", "chí", "minh"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "phạm", "thanh", "hà", "ký", "hợp", "đồng", "với", "vinamilk"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["giáo", "sư", "xi", "jinping", "thăm", "chính", "thức", "cần", "thơ"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["đỗ", "quang", "huy", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "ngô", "văn", "đức", "làm", "việc", "tại", "trung", "quốc"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["google", "đầu", "tư", "vào", "thái", "nguyên"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["bà", "trương", "thị", "mai", "đến", "thăm", "thái", "nguyên"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "hà", "nội", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["cầu", "thủ", "hoàng", "văn", "nam", "đến", "thăm", "thanh", "hóa"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "đà", "nẵng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vnpt", "đầu", "tư", "vào", "nghệ", "an"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["phạm", "minh", "chính", "và", "nguyễn", "văn", "an", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["viettel", "mở", "rộng", "hoạt", "động", "tại", "nghệ", "an"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ông", "lương", "cường", "ký", "hợp", "đồng", "với", "mobifone"],
+    "labels": ["O", "B-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["giáo", "sư", "warren", "buffett", "thăm", "chính", "thức", "đà", "nẵng"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "lương", "cường", "đến", "thăm", "bắc", "ninh"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["cầu", "thủ", "đỗ", "quang", "huy", "đến", "thăm", "thanh", "hóa"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vinamilk", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "hoàng", "văn", "nam", "làm", "việc", "tại", "new", "york"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vietcombank", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "nguyễn", "văn", "an", "ký", "hợp", "đồng", "với", "vietcombank"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "bùi", "thị", "mai", "làm", "việc", "tại", "thái", "lan"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["bà", "nguyễn", "phú", "trọng", "ký", "hợp", "đồng", "với", "vingroup"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["apple", "đầu", "tư", "vào", "hải", "phòng"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tesla", "đầu", "tư", "vào", "cần", "thơ"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["apple", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "nguyễn", "phú", "trọng", "đến", "thăm", "nha", "trang"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "thái", "nguyên", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["google", "mở", "rộng", "hoạt", "động", "tại", "nha", "trang"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "cristiano", "ronaldo", "thăm", "chính", "thức", "thái", "nguyên"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["cầu", "thủ", "elon", "musk", "thăm", "chính", "thức", "tp", "hồ", "chí", "minh"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "đà", "nẵng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["ngô", "văn", "đức", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bà", "trương", "thị", "mai", "đến", "thăm", "nha", "trang"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "võ", "văn", "thưởng", "làm", "việc", "tại", "hàn", "quốc"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["đỗ", "quang", "huy", "và", "ngô", "văn", "đức", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["chủ", "tịch", "nguyễn", "văn", "an", "đến", "thăm", "đồng", "nai"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "joe", "biden", "thăm", "chính", "thức", "quảng", "ninh"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["amazon", "mở", "rộng", "hoạt", "động", "tại", "vĩnh", "phúc"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["bà", "đinh", "thị", "thu", "làm", "việc", "tại", "trung", "quốc"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "thanh", "hóa", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tô", "lâm", "và", "nguyễn", "phú", "trọng", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tại", "đồng", "nai", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "trương", "thị", "mai", "ký", "hợp", "đồng", "với", "meta"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "nguyễn", "phú", "trọng", "ký", "hợp", "đồng", "với", "vnpt"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["ca", "sĩ", "đinh", "thị", "thu", "đến", "thăm", "hải", "phòng"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tô", "lâm", "và", "phan", "văn", "giang", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["alibaba", "đầu", "tư", "vào", "thanh", "hóa"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vinfast", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vietcombank", "đầu", "tư", "vào", "thanh", "hóa"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["microsoft", "mở", "rộng", "hoạt", "động", "tại", "đồng", "nai"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tô", "lâm", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["apple", "mở", "rộng", "hoạt", "động", "tại", "thanh", "hóa"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "hải", "phòng", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bidv", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["ông", "bùi", "thị", "mai", "đến", "thăm", "bình", "dương"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["lê", "minh", "tuấn", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["grab", "đầu", "tư", "vào", "thanh", "hóa"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["đỗ", "quang", "huy", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["nguyễn", "xuân", "phúc", "và", "nguyễn", "phú", "trọng", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bidv", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bà", "trương", "thị", "mai", "đến", "thăm", "hải", "phòng"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["giám", "đốc", "trần", "thị", "bình", "ký", "hợp", "đồng", "với", "vnpt"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["vinamilk", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bidv", "đầu", "tư", "vào", "bắc", "ninh"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["vinfast", "đầu", "tư", "vào", "đồng", "nai"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tô", "lâm", "được", "bổ", "nhiệm", "làm", "lãnh", "đạo"],
+    "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["vinfast", "đầu", "tư", "vào", "quảng", "ninh"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["giám", "đốc", "angela", "merkel", "thăm", "chính", "thức", "nghệ", "an"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["alibaba", "đầu", "tư", "vào", "cần", "thơ"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["google", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["giám", "đốc", "cristiano", "ronaldo", "thăm", "chính", "thức", "hải", "phòng"],
+    "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "bình", "dương", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["microsoft", "mở", "rộng", "hoạt", "động", "tại", "hải", "phòng"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["tại", "nha", "trang", "có", "nhiều", "sự", "kiện", "lớn"],
+    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["bà", "hoàng", "văn", "nam", "làm", "việc", "tại", "singapore"],
+    "labels": ["O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
+  },
+  {
+    "tokens": ["meta", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["tiến", "sĩ", "lê", "minh", "tuấn", "ký", "hợp", "đồng", "với", "grab"],
+    "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG"]
+  },
+  {
+    "tokens": ["tô", "lâm", "và", "phạm", "minh", "chính", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["grab", "đầu", "tư", "vào", "hà", "nội"],
+    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
+  },
+  {
+    "tokens": ["grab", "ra", "mắt", "sản", "phẩm", "mới"],
+    "labels": ["B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["nguyễn", "văn", "an", "và", "nguyễn", "phú", "trọng", "cùng", "tham", "dự", "hội", "nghị"],
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O"]
   }
 ]
