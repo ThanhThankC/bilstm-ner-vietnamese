@@ -51,8 +51,33 @@ giao_dien = gr.Interface(
     inputs=gr.Textbox(lines=4, placeholder="Nhập câu vào đây..."),
     outputs=gr.HighlightedText(label="Kết quả nhận diện"),
     title="Hệ thống Nhận diện Thực thể - Nhóm 5 - 69IT5",
-    examples=[["hôm nay ông vượng đi hà nội"], ["trần hưng đạo chỉ huy quân đội nhà trần"]]
+    examples=[
+        # PER đơn giản
+        ["thủ tướng phạm minh chính thăm nhật bản"],
+        ["ca sĩ mỹ tâm tổ chức liveshow tại tp hồ chí minh"],
+        ["giáo sư nguyễn văn an giảng dạy tại đại học bách khoa hà nội"],
+        ["ông trần văn bình được bổ nhiệm làm giám đốc fpt"],
+        # LOC
+        ["hội nghị thượng đỉnh diễn ra tại singapore"],
+        ["tỉnh nghệ an đẩy mạnh phát triển kinh tế"],
+        ["đà nẵng và hội an thu hút nhiều khách du lịch"],
+        # ORG
+        ["samsung khai trương nhà máy mới tại bắc ninh"],
+        ["bệnh viện bạch mai tiếp nhận bệnh nhân từ hà nội"],
+        ["ubnd tỉnh bình dương họp khẩn về quy hoạch"],
+        ["đại học quốc gia hà nội tổ chức lễ tốt nghiệp"],
+        # Nhiều entity
+        ["elon musk gặp chủ tịch tô lâm tại hà nội"],
+        ["samsung và vingroup ký kết hợp tác tại hà nội"],
+        ["bà trần thị bình đại diện vietcombank làm việc tại london"],
+        ["câu lạc bộ hà nội fc thi đấu tại sân vận động mỹ đình"],
+        # Câu khó - từ đa nghĩa
+        ["hà anh tuấn biểu diễn tại đà nẵng và hội an"],
+        ["tổng thống joe biden thăm chính thức việt nam"],
+        ["vinfast ra mắt xe điện mới tại paris"],
+        ["đội tuyển việt nam thi đấu với thái lan tại hà nội"],
+        ["google và microsoft hợp tác nghiên cứu trí tuệ nhân tạo"],
+    ]
 )
-
 if __name__ == "__main__":
     giao_dien.launch()
