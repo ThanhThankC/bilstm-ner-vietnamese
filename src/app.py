@@ -13,8 +13,8 @@ with open("models/tag_vocab.json", "r", encoding="utf-8") as f:
 ix_to_tag = {v: k for k, v in tag_to_ix.items()}
 
 # 2. Khởi tạo mô hình trống và nhồi trọng số (sự thông minh) vào
-EMBEDDING_DIM = 6
-HIDDEN_DIM = 6
+EMBEDDING_DIM = 64
+HIDDEN_DIM = 128
 model = BiLSTM_NER(len(word_to_ix), len(tag_to_ix), EMBEDDING_DIM, HIDDEN_DIM)
 model.load_state_dict(torch.load("models/bilstm_weights.pth"))
 model.eval() # Bật chế độ làm bài kiểm tra (không học nữa)
