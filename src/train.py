@@ -42,14 +42,14 @@ def prepare_sequence(seq, to_ix):
     return torch.tensor(idxs, dtype=torch.long)
 
 print("\n2. Đang khởi tạo mô hình...")
-EMBEDDING_DIM = 6
-HIDDEN_DIM = 6
+EMBEDDING_DIM = 64
+HIDDEN_DIM = 128
 model = BiLSTM_NER(len(word_to_ix), len(tag_to_ix), EMBEDDING_DIM, HIDDEN_DIM)
 loss_function = nn.CrossEntropyLoss()
 optimizer = optim.SGD(model.parameters(), lr=0.1)
 
 print("3. Bắt đầu huấn luyện...")
-for epoch in range(300):
+for epoch in range(500):
     for item in data:
         model.zero_grad()
         sentence_in = prepare_sequence(item["tokens"], word_to_ix)
