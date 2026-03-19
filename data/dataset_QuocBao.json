@@ -112,10 +112,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["lê", "hoàng", "nam", "tham", "dự", "sea", "games", "tại", "seattle"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
-  },
-  {
     "tokens": ["neymar", "thi", "đấu", "cho", "bộ", "công", "an", "tại", "tokyo"],
     "labels": ["B-PER", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "B-LOC"]
   },
@@ -400,10 +396,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["trương", "gia", "bình", "làm", "việc", "cho", "hà", "nội", "fc", "ở", "bắc", "kinh"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["huỳnh", "như", "làm", "việc", "cho", "manchester", "city", "ở", "hà", "nội"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
   },
@@ -660,10 +652,6 @@
     "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["lê", "hoàng", "nam", "ghi", "dấu", "ấn", "tại", "g20", "ở", "việt", "nam"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["erling", "haaland", "ghi", "dấu", "ấn", "tại", "v-league", "ở", "việt", "nam"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
@@ -890,10 +878,6 @@
   {
     "tokens": ["stephen", "curry", "ghi", "dấu", "ấn", "tại", "olympic", "ở", "việt", "nam"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["lê", "hoàng", "nam", "đại", "diện", "nato", "tham", "dự", "sea", "games", "tại", "tokyo"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
   },
   {
     "tokens": ["kevin", "de", "bruyne", "ghi", "dấu", "ấn", "tại", "sea", "games", "ở", "london"],
@@ -1589,7 +1573,7 @@
   },
   {
     "tokens": ["nguyễn", "huy", "hoàng", "tham", "dự", "hà", "nội", "fc", "tại", "hà", "nội"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC", "I-ORG", "O", "B-LOC", "I-LOC"]
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["huỳnh", "như", "làm", "việc", "cho", "liên", "đoàn", "bóng", "đá", "việt", "nam", "ở", "hà", "nội"],
@@ -1618,10 +1602,6 @@
   {
     "tokens": ["trần", "minh", "tuấn", "tham", "dự", "champions", "league", "tại", "moskva"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["phạm", "nhật", "vượng", "tham", "dự", "euro", "tại", "seattle"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
     "tokens": ["kevin", "de", "bruyne", "ghi", "dấu", "ấn", "tại", "euro", "ở", "hà", "nội"],
@@ -1968,10 +1948,6 @@
     "labels": ["B-PER", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["cristiano", "ronaldo", "làm", "việc", "cho", "amazon", "ở", "london"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
     "tokens": ["nguyễn", "thị", "mai", "phát", "biểu", "tại", "fpt", "tại", "tokyo"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
@@ -2094,10 +2070,6 @@
   {
     "tokens": ["stephen", "curry", "đại", "diện", "bộ", "công", "an", "tham", "dự", "olympic", "tại", "bắc", "kinh"],
     "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["neymar", "làm", "việc", "cho", "apple", "ở", "paris"],
-    "labels": ["B-PER", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
     "tokens": ["đặng", "văn", "lâm", "dự", "hội", "nghị", "fpt", "tại", "moskva"],
@@ -2464,10 +2436,6 @@
     "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["cristiano", "ronaldo", "ghi", "dấu", "ấn", "tại", "sea", "games", "ở", "việt", "nam"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["trần", "minh", "tuấn", "làm", "việc", "cho", "fpt", "ở", "việt", "nam"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
@@ -2540,10 +2508,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["nguyễn", "huy", "hoàng", "ghi", "dấu", "ấn", "tại", "v-league", "ở", "bắc", "kinh"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["nguyễn", "thị", "mai", "làm", "việc", "cho", "inter", "miami", "ở", "paris"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
   },
@@ -2597,7 +2561,7 @@
   },
   {
     "tokens": ["trương", "gia", "bình", "đại", "diện", "hà", "nội", "fc", "tham", "dự", "v-league", "tại", "hà", "nội"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-LOC", "I-LOC", "I-ORG", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
+    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["nguyễn", "huy", "hoàng", "tham", "dự", "champions", "league", "tại", "đà", "nẵng"],
@@ -2700,20 +2664,12 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["trương", "gia", "bình", "tham", "dự", "sea", "games", "tại", "california"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
-  },
-  {
     "tokens": ["kylian", "mbappe", "làm", "việc", "cho", "tesla", "ở", "việt", "nam"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["phạm", "nhật", "vượng", "tổ", "chức", "sự", "kiện", "tại", "đội", "tuyển", "việt", "nam", "tại", "california"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["kylian", "mbappe", "tham", "dự", "world", "cup", "tại", "tokyo"],
-    "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
   },
   {
     "tokens": ["bill", "gates", "làm", "việc", "tại", "bộ", "công", "an", "tại", "việt", "nam"],
@@ -3044,20 +3000,12 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["lê", "hoàng", "nam", "làm", "việc", "cho", "apple", "ở", "london"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
     "tokens": ["bill", "gates", "xuất", "hiện", "tại", "google", "tại", "london"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
     "tokens": ["nguyễn", "thị", "mai", "đại", "diện", "apple", "tham", "dự", "olympic", "tại", "paris"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["đoàn", "văn", "hậu", "thi", "đấu", "cho", "inter", "miami", "tại", "new", "york"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["bill", "gates", "làm", "việc", "cho", "amazon", "ở", "việt", "nam"],
@@ -3116,10 +3064,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["trần", "minh", "tuấn", "ghi", "dấu", "ấn", "tại", "asian", "cup", "ở", "new", "york"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["nguyễn", "huy", "hoàng", "đại", "diện", "microsoft", "tham", "dự", "champions", "league", "tại", "london"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
   },
@@ -3140,10 +3084,6 @@
     "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["lebron", "james", "làm", "việc", "tại", "google", "tại", "bắc", "kinh"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["kylian", "mbappe", "ghi", "dấu", "ấn", "tại", "aff", "cup", "ở", "moskva"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
   },
@@ -3162,14 +3102,6 @@
   {
     "tokens": ["nguyễn", "thị", "mai", "đại", "diện", "nato", "tham", "dự", "aff", "cup", "tại", "tokyo"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["huỳnh", "như", "tham", "dự", "aff", "cup", "tại", "seattle"],
-    "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["bill", "gates", "tham", "dự", "champions", "league", "tại", "thành", "phố", "hồ", "chí", "minh"],
-    "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC", "I-LOC"]
   },
   {
     "tokens": ["elon", "musk", "đại", "diện", "fpt", "tham", "dự", "sea", "games", "tại", "moskva"],
@@ -3364,10 +3296,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["elon", "musk", "tham", "dự", "g20", "tại", "paris"],
-    "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
     "tokens": ["nguyễn", "huy", "hoàng", "đại", "diện", "apple", "tham", "dự", "v-league", "tại", "bắc", "kinh"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
@@ -3402,10 +3330,6 @@
   {
     "tokens": ["trương", "gia", "bình", "ghi", "dấu", "ấn", "tại", "world", "cup", "ở", "hà", "nội"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["kylian", "mbappe", "tham", "dự", "sea", "games", "tại", "việt", "nam"],
-    "labels": ["B-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["kevin", "de", "bruyne", "đại", "diện", "nato", "tham", "dự", "sea", "games", "tại", "tokyo"],
@@ -3516,10 +3440,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["đặng", "văn", "lâm", "tham", "dự", "v-league", "tại", "california"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
     "tokens": ["nguyễn", "huy", "hoàng", "gặp", "lãnh", "đạo", "apple", "tại", "seattle"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
@@ -3588,10 +3508,6 @@
     "labels": ["B-PER", "O", "O", "O", "B-ORG", "I-ORG", "I-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["đặng", "văn", "lâm", "tham", "dự", "aff", "cup", "tại", "paris"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "I-ORG", "O", "B-LOC"]
-  },
-  {
     "tokens": ["stephen", "curry", "làm", "việc", "tại", "tesla", "tại", "hà", "nội"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
@@ -3641,10 +3557,6 @@
   },
   {
     "tokens": ["tại", "bắc", "ninh", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
-    "tokens": ["tại", "bình", "dương", "diễn", "ra", "hội", "chợ", "lớn"],
     "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
@@ -3784,10 +3696,6 @@
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["tại", "bắc", "ninh", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["fpt", "khai", "trương", "chi", "nhánh", "mới", "tại", "cần", "thơ"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -3806,10 +3714,6 @@
   {
     "tokens": ["cầu", "thủ", "bùi", "thị", "mai", "phát", "biểu", "tại", "hội", "nghị", "ở", "thanh", "hóa"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "thanh", "hóa", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["đinh", "thị", "thu", "trúng", "cử", "đại", "biểu", "tại", "thanh", "hóa"],
@@ -3838,10 +3742,6 @@
   {
     "tokens": ["chủ", "tịch", "hoàng", "văn", "nam", "phát", "biểu", "tại", "hội", "nghị", "ở", "quảng", "ninh"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "thái", "nguyên", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["trương", "thị", "mai", "trúng", "cử", "đại", "biểu", "tại", "cần", "thơ"],
@@ -3928,10 +3828,6 @@
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "bình", "dương", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["lương", "cường", "trúng", "cử", "đại", "biểu", "tại", "đồng", "nai"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -3952,20 +3848,12 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "bình", "dương", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["lê", "minh", "tuấn", "trúng", "cử", "đại", "biểu", "tại", "tp", "hồ", "chí", "minh"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
   },
   {
     "tokens": ["barack", "obama", "thăm", "chính", "thức", "đà", "nẵng"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "đà", "nẵng", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["cầu", "thủ", "nguyễn", "phú", "trọng", "giới", "thiệu", "sản", "phẩm", "mới", "tại", "vĩnh", "phúc"],
@@ -3980,20 +3868,12 @@
     "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "thái", "nguyên", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["tiến", "sĩ", "trương", "thị", "mai", "phát", "biểu", "tại", "hội", "nghị", "ở", "bình", "dương"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["grab", "hợp", "tác", "với", "amazon", "tại", "london"],
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["nguyễn", "phú", "trọng", "trúng", "cử", "đại", "biểu", "tại", "quảng", "ninh"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["tại", "nha", "trang", "diễn", "ra", "hội", "chợ", "lớn"],
@@ -4006,10 +3886,6 @@
   {
     "tokens": ["cầu", "thủ", "hoàng", "văn", "nam", "giới", "thiệu", "sản", "phẩm", "mới", "tại", "thanh", "hóa"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["lê", "minh", "tuấn", "trúng", "cử", "đại", "biểu", "tại", "tp", "hồ", "chí", "minh"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
   },
   {
     "tokens": ["tại", "tp", "hồ", "chí", "minh", "diễn", "ra", "hội", "chợ", "lớn"],
@@ -4050,10 +3926,6 @@
   {
     "tokens": ["bùi", "thị", "mai", "trúng", "cử", "đại", "biểu", "tại", "thái", "nguyên"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "nha", "trang", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["cầu", "thủ", "phạm", "thanh", "hà", "phát", "biểu", "tại", "hội", "nghị", "ở", "bắc", "ninh"],
@@ -4240,10 +4112,6 @@
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "bình", "dương", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["đinh", "thị", "thu", "trúng", "cử", "đại", "biểu", "tại", "bắc", "ninh"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -4252,24 +4120,12 @@
     "labels": ["O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "cần", "thơ", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["phan", "văn", "giang", "trúng", "cử", "đại", "biểu", "tại", "hà", "nội"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["tesla", "công", "bố", "đinh", "thị", "thu", "là", "giám", "đốc", "mới"],
     "labels": ["B-ORG", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O"]
-  },
-  {
-    "tokens": ["tại", "thanh", "hóa", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
-    "tokens": ["tại", "vĩnh", "phúc", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["cuộc", "họp", "giữa", "võ", "văn", "thưởng", "và", "nguyễn", "phú", "trọng", "diễn", "ra", "tại", "bình", "dương"],
@@ -4340,10 +4196,6 @@
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "cần", "thơ", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["chủ", "tịch", "tô", "lâm", "phát", "biểu", "tại", "hội", "nghị", "ở", "thái", "nguyên"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -4356,20 +4208,12 @@
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tesla", "công", "bố", "đinh", "thị", "thu", "là", "giám", "đốc", "mới"],
-    "labels": ["B-ORG", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["đỗ", "quang", "huy", "tốt", "nghiệp", "tại", "amazon"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
   },
   {
     "tokens": ["đỗ", "quang", "huy", "trúng", "cử", "đại", "biểu", "tại", "hải", "phòng"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["hoàng", "văn", "nam", "tốt", "nghiệp", "tại", "viettel"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
   },
   {
     "tokens": ["bà", "võ", "văn", "thưởng", "giới", "thiệu", "sản", "phẩm", "mới", "tại", "bắc", "ninh"],
@@ -4382,10 +4226,6 @@
   {
     "tokens": ["cuộc", "họp", "giữa", "hoàng", "văn", "nam", "và", "nguyễn", "phú", "trọng", "diễn", "ra", "tại", "đà", "nẵng"],
     "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["vũ", "thị", "lan", "tốt", "nghiệp", "tại", "vietcombank"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
   },
   {
     "tokens": ["trần", "thị", "bình", "trúng", "cử", "đại", "biểu", "tại", "quảng", "ninh"],
@@ -4412,10 +4252,6 @@
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["đinh", "thị", "thu", "trúng", "cử", "đại", "biểu", "tại", "bắc", "ninh"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["vinfast", "khai", "trương", "chi", "nhánh", "mới", "tại", "đồng", "nai"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -4426,10 +4262,6 @@
   {
     "tokens": ["bidv", "hợp", "tác", "với", "google", "tại", "nhật", "bản"],
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["lương", "cường", "trúng", "cử", "đại", "biểu", "tại", "đồng", "nai"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["tại", "nghệ", "an", "diễn", "ra", "hội", "chợ", "lớn"],
@@ -4456,10 +4288,6 @@
     "labels": ["B-ORG", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O"]
   },
   {
-    "tokens": ["vinfast", "khai", "trương", "chi", "nhánh", "mới", "tại", "nha", "trang"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["meta", "hợp", "tác", "với", "viettel", "tại", "mỹ"],
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
@@ -4468,20 +4296,12 @@
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "thái", "nguyên", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["angela", "merkel", "thăm", "chính", "thức", "đà", "nẵng"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["microsoft", "công", "bố", "nguyễn", "xuân", "phúc", "là", "giám", "đốc", "mới"],
     "labels": ["B-ORG", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O"]
-  },
-  {
-    "tokens": ["nguyễn", "xuân", "phúc", "tốt", "nghiệp", "tại", "alibaba"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
   },
   {
     "tokens": ["cuộc", "họp", "giữa", "nguyễn", "văn", "an", "và", "lê", "minh", "tuấn", "diễn", "ra", "tại", "hà", "nội"],
@@ -4508,10 +4328,6 @@
     "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
   },
   {
-    "tokens": ["phạm", "minh", "chính", "trúng", "cử", "đại", "biểu", "tại", "hà", "nội"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["tiến", "sĩ", "hoàng", "văn", "nam", "phát", "biểu", "tại", "hội", "nghị", "ở", "cần", "thơ"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -4520,20 +4336,8 @@
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["narendra", "modi", "thăm", "chính", "thức", "vĩnh", "phúc"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["vietcombank", "khai", "trương", "chi", "nhánh", "mới", "tại", "thanh", "hóa"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "đồng", "nai", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
-    "tokens": ["tim", "cook", "thăm", "chính", "thức", "đồng", "nai"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["ông", "nguyễn", "phú", "trọng", "phát", "biểu", "tại", "hội", "nghị", "ở", "thái", "nguyên"],
@@ -4556,10 +4360,6 @@
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "bắc", "ninh", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["cuộc", "họp", "giữa", "tô", "lâm", "và", "hoàng", "văn", "nam", "diễn", "ra", "tại", "hà", "nội"],
     "labels": ["O", "O", "O", "B-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -4569,10 +4369,6 @@
   },
   {
     "tokens": ["phan", "văn", "giang", "tốt", "nghiệp", "tại", "toyota"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
-  },
-  {
-    "tokens": ["hoàng", "văn", "nam", "tốt", "nghiệp", "tại", "viettel"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
   },
   {
@@ -4618,10 +4414,6 @@
   {
     "tokens": ["bill", "gates", "thăm", "chính", "thức", "cần", "thơ"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "nghệ", "an", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["viettel", "khai", "trương", "chi", "nhánh", "mới", "tại", "quảng", "ninh"],
@@ -4692,10 +4484,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
   },
   {
-    "tokens": ["amazon", "khai", "trương", "chi", "nhánh", "mới", "tại", "thanh", "hóa"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["tiến", "sĩ", "phạm", "thanh", "hà", "giới", "thiệu", "sản", "phẩm", "mới", "tại", "hà", "nội"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -4716,24 +4504,12 @@
     "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "đà", "nẵng", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
-    "tokens": ["tại", "bình", "dương", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["phan", "văn", "giang", "tốt", "nghiệp", "tại", "viettel"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
   },
   {
     "tokens": ["cristiano", "ronaldo", "thăm", "chính", "thức", "nha", "trang"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "đồng", "nai", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["ca", "sĩ", "đinh", "thị", "thu", "phát", "biểu", "tại", "hội", "nghị", "ở", "thái", "nguyên"],
@@ -4776,10 +4552,6 @@
     "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "bình", "dương", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["võ", "văn", "thưởng", "trúng", "cử", "đại", "biểu", "tại", "nha", "trang"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -4802,14 +4574,6 @@
   {
     "tokens": ["tô", "lâm", "tốt", "nghiệp", "tại", "apple"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-ORG"]
-  },
-  {
-    "tokens": ["bill", "gates", "thăm", "chính", "thức", "cần", "thơ"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "cần", "thơ", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["vnpt", "hợp", "tác", "với", "google", "tại", "singapore"],
@@ -4848,10 +4612,6 @@
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["tại", "nghệ", "an", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["vietcombank", "công", "bố", "phan", "văn", "giang", "là", "giám", "đốc", "mới"],
     "labels": ["B-ORG", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O"]
   },
@@ -4874,10 +4634,6 @@
   {
     "tokens": ["bill", "gates", "thăm", "chính", "thức", "đồng", "nai"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "nha", "trang", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["alibaba", "hợp", "tác", "với", "vinamilk", "tại", "thái", "lan"],
@@ -4904,10 +4660,6 @@
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["nguyễn", "xuân", "phúc", "tốt", "nghiệp", "tại", "vinfast"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-ORG"]
-  },
-  {
     "tokens": ["nguyễn", "xuân", "phúc", "trúng", "cử", "đại", "biểu", "tại", "cần", "thơ"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -4922,14 +4674,6 @@
   {
     "tokens": ["samsung", "hợp", "tác", "với", "mobifone", "tại", "mỹ"],
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["vingroup", "công", "bố", "đinh", "thị", "thu", "là", "giám", "đốc", "mới"],
-    "labels": ["B-ORG", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O"]
-  },
-  {
-    "tokens": ["nguyễn", "xuân", "phúc", "trúng", "cử", "đại", "biểu", "tại", "cần", "thơ"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["ông", "phạm", "thanh", "hà", "phát", "biểu", "tại", "hội", "nghị", "ở", "quảng", "ninh"],
@@ -4966,10 +4710,6 @@
   {
     "tokens": ["tesla", "khai", "trương", "chi", "nhánh", "mới", "tại", "bắc", "ninh"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["bill", "gates", "thăm", "chính", "thức", "nha", "trang"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["đỗ", "quang", "huy", "tốt", "nghiệp", "tại", "vinfast"],
@@ -5012,10 +4752,6 @@
     "labels": ["B-ORG", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O"]
   },
   {
-    "tokens": ["tại", "quảng", "ninh", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["cuộc", "họp", "giữa", "đinh", "thị", "thu", "và", "nguyễn", "văn", "an", "diễn", "ra", "tại", "vĩnh", "phúc"],
     "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -5038,10 +4774,6 @@
   {
     "tokens": ["vingroup", "hợp", "tác", "với", "mobifone", "tại", "seoul"],
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["tại", "hải", "phòng", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["alibaba", "công", "bố", "tô", "lâm", "là", "giám", "đốc", "mới"],
@@ -5080,20 +4812,12 @@
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["đỗ", "quang", "huy", "trúng", "cử", "đại", "biểu", "tại", "hải", "phòng"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["ca", "sĩ", "bùi", "thị", "mai", "giới", "thiệu", "sản", "phẩm", "mới", "tại", "cần", "thơ"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["tiến", "sĩ", "nguyễn", "xuân", "phúc", "giới", "thiệu", "sản", "phẩm", "mới", "tại", "nha", "trang"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["lương", "cường", "trúng", "cử", "đại", "biểu", "tại", "đồng", "nai"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["ca", "sĩ", "phạm", "thanh", "hà", "giới", "thiệu", "sản", "phẩm", "mới", "tại", "vĩnh", "phúc"],
@@ -5136,16 +4860,8 @@
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tại", "quảng", "ninh", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
-  },
-  {
     "tokens": ["lionel", "messi", "thăm", "chính", "thức", "bình", "dương"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tại", "thanh", "hóa", "diễn", "ra", "hội", "chợ", "lớn"],
-    "labels": ["O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O"]
   },
   {
     "tokens": ["nguyễn", "văn", "an", "tốt", "nghiệp", "tại", "vnpt"],
@@ -5198,8 +4914,8 @@
   {
     "tokens": ["giám", "đốc", "ngô", "văn", "đức", "phát", "biểu", "tại", "hội", "nghị", "ở", "hải", "phòng"],
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  }
-  ,{
+  },
+  {
     "tokens": ["phạm", "minh", "chính", "nghiên", "cứu", "tại", "cambridge"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
@@ -5344,10 +5060,6 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["phạm", "minh", "chính", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["bích", "phương", "nghiên", "cứu", "tại", "cambridge"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
@@ -5382,10 +5094,6 @@
   {
     "tokens": ["hyundai", "mở", "rộng", "sang", "toronto"],
     "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["nhà", "báo", "jensen", "huang", "thăm", "singapore"],
-    "labels": ["O", "O", "B-PER", "I-PER", "O", "B-LOC"]
   },
   {
     "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "malaysia"],
@@ -5536,10 +5244,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
   {
-    "tokens": ["sơn", "tùng", "mtp", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "amsterdam"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
   },
@@ -5562,10 +5266,6 @@
   {
     "tokens": ["câu", "lạc", "bộ", "hà", "nội", "fc", "và", "google", "ký", "kết", "biên", "bản", "ghi", "nhớ", "hợp", "tác", "tại", "bắc", "ninh"],
     "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["shopee", "mở", "rộng", "sang", "đức"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["đại", "học", "huế", "và", "openai", "ký", "kết", "biên", "bản", "ghi", "nhớ", "hợp", "tác", "tại", "thái", "nguyên"],
@@ -5656,10 +5356,6 @@
     "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
   {
-    "tokens": ["bích", "phương", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["phó", "chủ", "tịch", "sundar", "pichai", "gặp", "tổng", "giám", "đốc", "mỹ", "tâm"],
     "labels": ["O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER"]
   },
@@ -5700,10 +5396,6 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "I-PER"]
   },
   {
-    "tokens": ["shopee", "mở", "rộng", "sang", "london"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["hà", "anh", "tuấn", "đại", "diện", "shopee", "gặp", "tim", "cook", "tại", "pháp"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "B-LOC"]
   },
@@ -5740,10 +5432,6 @@
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["phạm", "minh", "chính", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["bệnh", "viện", "đa", "khoa", "tỉnh", "nghệ", "an", "và", "meta", "ký", "kết", "biên", "bản", "ghi", "nhớ", "hợp", "tác", "tại", "hải", "phòng"],
     "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -5758,14 +5446,6 @@
   {
     "tokens": ["ubnd", "tỉnh", "bình", "dương", "và", "tiktok", "ký", "kết", "biên", "bản", "ghi", "nhớ", "hợp", "tác", "tại", "tp", "hồ", "chí", "minh"],
     "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["samsung", "khai", "trương", "văn", "phòng", "tại", "dubai"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["lê", "minh", "tuấn", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["tô", "lâm", "đại", "diện", "vietcombank", "gặp", "tim", "cook", "tại", "washington"],
@@ -5828,10 +5508,6 @@
     "labels": ["B-ORG", "O", "B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["apple", "khai", "trương", "văn", "phòng", "tại", "dubai"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "nhật", "bản"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -5856,10 +5532,6 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["sơn", "tùng", "mtp", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["chủ", "tịch", "jensen", "huang", "thăm", "hàn", "quốc"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
@@ -5874,10 +5546,6 @@
   {
     "tokens": ["tổng", "thống", "xi", "jinping", "tặng", "huân", "chương", "cho", "nhà", "báo", "hoàng", "thùy", "linh", "tại", "cần", "thơ"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tiktok", "đầu", "tư", "vào", "thị", "trường", "hà", "nội"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["sony", "khai", "trương", "văn", "phòng", "tại", "dubai"],
@@ -5916,20 +5584,12 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["võ", "văn", "thưởng", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["nhà", "báo", "sundar", "pichai", "gặp", "diễn", "viên", "vũ", "thị", "lan"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "I-PER"]
   },
   {
     "tokens": ["hyundai", "khai", "trương", "văn", "phòng", "tại", "dubai"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["samsung", "mở", "rộng", "sang", "toronto"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["nguyễn", "xuân", "phúc", "nghiên", "cứu", "tại", "cambridge"],
@@ -5946,14 +5606,6 @@
   {
     "tokens": ["shopee", "mở", "rộng", "sang", "dubai"],
     "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["shopee", "mở", "rộng", "sang", "amsterdam"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "paris"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "cambridge"],
@@ -5978,10 +5630,6 @@
   {
     "tokens": ["huấn", "luyện", "viên", "taylor", "swift", "tặng", "huân", "chương", "cho", "huấn", "luyện", "viên", "bùi", "mỹ", "linh", "tại", "hải", "phòng"],
     "labels": ["O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tesla", "khai", "trương", "văn", "phòng", "tại", "dubai"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["huấn", "luyện", "viên", "nguyễn", "thị", "an", "và", "phó", "chủ", "tịch", "ngô", "bảo", "châu", "cùng", "ký", "kết", "tại", "nha", "trang"],
@@ -6020,10 +5668,6 @@
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "malaysia"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["phó", "chủ", "tịch", "elon", "musk", "tặng", "huân", "chương", "cho", "tiến", "sĩ", "nguyễn", "văn", "an", "tại", "đà", "nẵng"],
     "labels": ["O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
@@ -6040,20 +5684,12 @@
     "labels": ["O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["tiktok", "đầu", "tư", "vào", "thị", "trường", "hà", "nội"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["openai", "hợp", "tác", "với", "honda", "tại", "nhật", "bản"],
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["sở", "giáo", "dục", "đà", "nẵng", "và", "tiktok", "ký", "kết", "biên", "bản", "ghi", "nhớ", "hợp", "tác", "tại", "thái", "bình"],
     "labels": ["B-ORG", "I-ORG", "I-ORG", "I-ORG", "I-ORG", "O", "B-ORG", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["shopee", "mở", "rộng", "sang", "singapore"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["mỹ", "tâm", "nghiên", "cứu", "tại", "cambridge"],
@@ -6074,10 +5710,6 @@
   {
     "tokens": ["nguyễn", "xuân", "phúc", "đại", "diện", "hyundai", "gặp", "bill", "gates", "tại", "dubai"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "amsterdam"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["phó", "chủ", "tịch", "jensen", "huang", "thăm", "oxford"],
@@ -6124,10 +5756,6 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "mỹ"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["đạo", "diễn", "bích", "phương", "và", "tiến", "sĩ", "bích", "phương", "cùng", "ký", "kết", "tại", "cần", "thơ"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -6156,20 +5784,12 @@
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
   {
-    "tokens": ["bích", "phương", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["tiktok", "đầu", "tư", "vào", "thị", "trường", "đà", "nẵng"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["hoàng", "văn", "nam", "đại", "diện", "toyota", "gặp", "vladimir", "putin", "tại", "new", "york"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["tiktok", "đầu", "tư", "vào", "thị", "trường", "tp", "hồ", "chí", "minh"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "I-LOC"]
   },
   {
     "tokens": ["tiến", "sĩ", "tô", "lâm", "và", "đại", "sứ", "trần", "nam", "trung", "cùng", "ký", "kết", "tại", "bắc", "ninh"],
@@ -6181,22 +5801,6 @@
   },
   {
     "tokens": ["shopee", "mở", "rộng", "sang", "pháp"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["mỹ", "tâm", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["samsung", "khai", "trương", "văn", "phòng", "tại", "dubai"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "hàn", "quốc"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["samsung", "mở", "rộng", "sang", "toronto"],
     "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
   {
@@ -6252,10 +5856,6 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["grab", "mở", "rộng", "sang", "toronto"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["shopee", "mở", "rộng", "sang", "nhật", "bản"],
     "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -6264,20 +5864,12 @@
     "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "seoul"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["bộ", "trưởng", "jensen", "huang", "thăm", "pháp"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "B-LOC"]
   },
   {
     "tokens": ["lê", "minh", "tuấn", "đại", "diện", "amazon", "gặp", "barack", "obama", "tại", "thái", "lan"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["openai", "hợp", "tác", "với", "fpt", "tại", "washington"],
-    "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
     "tokens": ["tiktok", "và", "sony", "hợp", "tác", "đầu", "tư", "tại", "hà", "tĩnh"],
@@ -6290,10 +5882,6 @@
   {
     "tokens": ["lê", "văn", "tướng", "đại", "diện", "openai", "gặp", "narendra", "modi", "tại", "mỹ"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["hà", "anh", "tuấn", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["lương", "cường", "đại", "diện", "samsung", "gặp", "ursula", "von", "der", "leyen", "tại", "oxford"],
@@ -6340,10 +5928,6 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "I-PER"]
   },
   {
-    "tokens": ["đen", "vâu", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["diễn", "viên", "jensen", "huang", "thăm", "tokyo"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "B-LOC"]
   },
@@ -6356,10 +5940,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["mỹ", "tâm", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["nhà", "khoa", "học", "vladimir", "putin", "tặng", "huân", "chương", "cho", "cầu", "thủ", "võ", "văn", "thưởng", "tại", "nha", "trang"],
     "labels": ["O", "O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
@@ -6370,10 +5950,6 @@
   {
     "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "toronto"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["hoàng", "thùy", "linh", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["hoàng", "văn", "nam", "du", "học", "tại", "oxford"],
@@ -6400,28 +5976,8 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["mỹ", "tâm", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["đặng", "thái", "sơn", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["lê", "văn", "tướng", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["giám", "đốc", "sundar", "pichai", "gặp", "đạo", "diễn", "mỹ", "tâm"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER"]
-  },
-  {
-    "tokens": ["trần", "nam", "trung", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["shopee", "mở", "rộng", "sang", "sydney"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["đại", "học", "quốc", "gia", "hà", "nội", "và", "lazada", "ký", "kết", "biên", "bản", "ghi", "nhớ", "hợp", "tác", "tại", "lâm", "đồng"],
@@ -6429,10 +5985,6 @@
   },
   {
     "tokens": ["shopee", "mở", "rộng", "sang", "mỹ"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["nvidia", "mở", "rộng", "sang", "toronto"],
     "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
   {
@@ -6446,10 +5998,6 @@
   {
     "tokens": ["bích", "phương", "du", "học", "tại", "oxford"],
     "labels": ["B-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "nhật", "bản"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["đại", "học", "quốc", "gia", "hà", "nội", "và", "hyundai", "ký", "kết", "biên", "bản", "ghi", "nhớ", "hợp", "tác", "tại", "nghệ", "an"],
@@ -6504,20 +6052,12 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "I-PER", "I-PER", "O", "B-LOC"]
   },
   {
-    "tokens": ["lazada", "mở", "rộng", "sang", "toronto"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["vinfast", "khai", "trương", "văn", "phòng", "tại", "dubai"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["tiktok", "đầu", "tư", "vào", "thị", "trường", "đồng", "nai"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["hyundai", "mở", "rộng", "sang", "toronto"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["nguyễn", "văn", "an", "đại", "diện", "toyota", "gặp", "xi", "jinping", "tại", "london"],
@@ -6532,10 +6072,6 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER"]
   },
   {
-    "tokens": ["shopee", "mở", "rộng", "sang", "london"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["tiktok", "mở", "rộng", "sang", "toronto"],
     "labels": ["B-ORG", "O", "O", "O", "B-LOC"]
   },
@@ -6546,10 +6082,6 @@
   {
     "tokens": ["nhà", "văn", "sundar", "pichai", "gặp", "đạo", "diễn", "nguyễn", "thị", "an"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "I-PER"]
-  },
-  {
-    "tokens": ["tiktok", "đầu", "tư", "vào", "thị", "trường", "nha", "trang"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
     "tokens": ["openai", "hợp", "tác", "với", "vietcombank", "tại", "malaysia"],
@@ -6572,10 +6104,6 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["microsoft", "khai", "trương", "văn", "phòng", "tại", "dubai"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["ca", "sĩ", "mỹ", "tâm", "và", "tổng", "giám", "đốc", "đặng", "thái", "sơn", "cùng", "ký", "kết", "tại", "bình", "dương"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
@@ -6588,14 +6116,6 @@
     "labels": ["O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "washington"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["phạm", "minh", "chính", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["diễn", "viên", "jensen", "huang", "thăm", "thái", "lan"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
@@ -6604,16 +6124,8 @@
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
   {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "berlin"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["thủ", "tướng", "vladimir", "putin", "tặng", "huân", "chương", "cho", "phó", "chủ", "tịch", "trần", "thị", "bình", "tại", "nam", "định"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "đức"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["diễn", "viên", "barack", "obama", "tặng", "huân", "chương", "cho", "bộ", "trưởng", "lê", "minh", "tuấn", "tại", "đồng", "nai"],
@@ -6680,10 +6192,6 @@
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["shopee", "mở", "rộng", "sang", "nhật", "bản"],
-    "labels": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["chủ", "tịch", "jensen", "huang", "thăm", "sydney"],
     "labels": ["O", "O", "B-PER", "I-PER", "O", "B-LOC"]
   },
@@ -6693,10 +6201,6 @@
   },
   {
     "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "tokyo"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["amazon", "khai", "trương", "văn", "phòng", "tại", "dubai"],
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
   },
   {
@@ -6716,10 +6220,6 @@
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
   },
   {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "hàn", "quốc"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["sơn", "tùng", "mtp", "đại", "diện", "toyota", "gặp", "sundar", "pichai", "tại", "trung", "quốc"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "B-ORG", "O", "B-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
@@ -6736,15 +6236,7 @@
     "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
   },
   {
-    "tokens": ["tesla", "khai", "trương", "văn", "phòng", "tại", "dubai"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC"]
-  },
-  {
     "tokens": ["vũ", "thị", "lan", "nghiên", "cứu", "tại", "cambridge"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["bùi", "mỹ", "linh", "nghiên", "cứu", "tại", "cambridge"],
     "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
   {
@@ -6776,20 +6268,8 @@
     "labels": ["O", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O", "O", "B-PER", "I-PER", "I-PER", "O", "B-LOC", "I-LOC"]
   },
   {
-    "tokens": ["nvidia", "ra", "mắt", "chip", "mới", "tại", "hàn", "quốc"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
     "tokens": ["openai", "hợp", "tác", "với", "samsung", "tại", "cambridge"],
     "labels": ["B-ORG", "O", "O", "O", "B-ORG", "O", "B-LOC"]
-  },
-  {
-    "tokens": ["tiktok", "đầu", "tư", "vào", "thị", "trường", "lâm", "đồng"],
-    "labels": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "I-LOC"]
-  },
-  {
-    "tokens": ["hà", "anh", "tuấn", "du", "học", "tại", "oxford"],
-    "labels": ["B-PER", "I-PER", "I-PER", "O", "O", "O", "B-LOC"]
   },
   {
     "tokens": ["ngô", "bảo", "châu", "đại", "diện", "toyota", "gặp", "barack", "obama", "tại", "toronto"],
